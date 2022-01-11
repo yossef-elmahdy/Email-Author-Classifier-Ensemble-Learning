@@ -10,3 +10,4 @@ All project details are documented in our [Notebook](https://github.com/yossef-e
 1. Youssef Abdelhadi El-Mahdy
 2. Osama Mohammed Ragab 
 3. Osama Yasser Saber 
+4. Moaaz Muhammed Samy
