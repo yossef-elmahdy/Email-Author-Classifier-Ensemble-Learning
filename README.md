@@ -3,6 +3,6 @@ Email Author Classifier is a project for Machine Learning Class 2021/2022. It cl
 
 
 ## Project Members 
-1. Youssef Abdelhady El-Mahdy
+1. Youssef Abdelhadi El-Mahdy
 2. Osama Mohammed Ragab 
 3. Osama Yasser Saber 
