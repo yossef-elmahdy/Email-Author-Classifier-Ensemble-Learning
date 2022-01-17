@@ -3,4 +3,4 @@ Email Author Classifier is a project for Machine Learning Class 2021/2022. It cl
 
 
 ## Project Details 
-All project details are documented in our [Notebook](https://github.com/yossef-elmahdy/Email-Author-Classifier-Ensemble-Learning/blob/main/Email_Author_Classifier_Ensemble.ipynb).  
+All project details are documented in the project [Notebook](https://github.com/yossef-elmahdy/Email-Author-Classifier-Ensemble-Learning/blob/main/Email_Author_Classifier_Ensemble.ipynb).  
